@@ -5,7 +5,7 @@
   If it is true, console log "I love to code!"
   If it is not, console log "Coding has its challenges."
 */
-console.log ('PROBLEM 1 - Answer');
+console.log ('Answer 1');
 let lovesCode = true;
 if(lovesCode === true){
   console.log("I love to code!");
@@ -27,7 +27,7 @@ var brittanisBirthYear = 1986;
    and then console.log '{name} is older'. Hint: Consider what will happen if they are the same age. Handle this situation.
 */
 
-console.log ('PROBLEM 2 - Answer');
+console.log ('Answer 2');
 if (amysAge > brittanisAge){
   console.log ('Amy is older');
 }
@@ -48,7 +48,7 @@ else if(amysAge === brittanisAge){
 */
 
 //CODE HERE
-console.log ('PROBLEM 3 - Answer');
+console.log ('Answer 3');
 if (amysBirthYear === brittanisBirthYear){
   console.log ('Amy & Brittani were born in the same year');
 }
@@ -70,7 +70,7 @@ let rain = true;
 */
 
 //CODE HERE
-console.log ('PROBLEM 4 - Answer');
+console.log ('Answer 4');
 if(temperature >= 80 && rain === true){
   console.log('Please wear a t-shirt and take an umbrella');
 }
@@ -98,7 +98,7 @@ else if(temperature <= 60 && rain === false){
 */
 
 //CODE HERE
-console.log ('PROBLEM 5 - Answer');
+console.log ('Answer 5');
 for(let i=0; i<10; i++){
   console.log('hello');
 }
